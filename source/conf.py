@@ -27,6 +27,7 @@ extensions = [
 ]
 
 templates_path = ['_templates']
+include_patterns = ['*.rst', '*.md']
 exclude_patterns = []
 
 
