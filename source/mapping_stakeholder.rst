@@ -54,7 +54,8 @@ Part 1: Stakeholder Identification (15 minutes)
 
 *Continue if needed*
 
-## Part 2: Stakeholder Analysis Matrix (20 minutes)
+Part 2: Stakeholder Analysis Matrix (20 minutes)
+================================================
 
 **Instructions:** Plot each stakeholder on the matrix below based on their level of influence (ability to impact project success with performance) and interest (how much the project affects them).
 
