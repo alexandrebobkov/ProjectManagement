@@ -841,4 +841,111 @@ LaTeX Font Info:    Trying to load font information for T1+qhv on input line 81
 .
 (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
-)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
+dvips/tex-gyre/q-ec.enc}] [2
+
+
+] (./projectmanagement.toc)
+\tf@toc=\write6
+\openout6 = `projectmanagement.toc'.
+
+ [1
+
+] [2
+
+]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--148
+\T1/qtm/m/n/10 3. ________________________________ 4. _________________________
+_______
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--148
+\T1/qtm/m/n/10 5. ________________________________ 6. _________________________
+_______
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--148
+\T1/qtm/m/n/10 7. ________________________________ 8. _________________________
+_______
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--148
+\T1/qtm/m/n/10 9. ________________________________ 10. ________________________
+_______
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--148
+\T1/qtm/m/n/10 11. _______________________________ 12. ________________________
+_______
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--148
+\T1/qtm/m/n/10 13. _______________________________ 14. ________________________
+_______ 15.
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 1
+78.
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for TS1+txtt on input line 
+1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txtt.fd
+File: ts1txtt.fd 2000/12/15 v3.1
+)
+
+! LaTeX Error: Unicode character ┼ (U+253C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 \textasciigrave{}}}
+                         ^^M
+? 
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.178 \textasciigrave{}}}
+                         ^^M
+? 
+! Emergency stop.
+\GenericError  ...                                
+                                                  \endgroup 
+l.178 \textasciigrave{}}}
+                         ^^M
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 16200 strings out of 476106
+ 267147 string characters out of 5793932
+ 1927975 words of memory out of 5000000
+ 37852 multiletter control sequences out of 15000+600000
+ 601087 words of font info for 66 fonts, out of 8000000 for 9000
+ 60 hyphenation exceptions out of 8191
+ 72i,11n,79p,756b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
