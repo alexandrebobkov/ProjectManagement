@@ -19,7 +19,6 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.imgmath",
     'matplotlib.sphinxext.mathmpl',
-    'sphinxcontrib.rackdiag',
     'sphinxcontrib.packetdiag',
 ]
 
