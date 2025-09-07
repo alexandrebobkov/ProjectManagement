@@ -23,7 +23,6 @@ extensions = [
     'sphinxcontrib.nwdiag',
     'sphinxcontrib.rackdiag',
     'sphinxcontrib.packetdiag',
-#    'sphinxcontrib.nwdiag',
 ]
 
 templates_path = ['_templates']
