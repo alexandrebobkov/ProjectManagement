@@ -18,7 +18,6 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.mathjax",
     "sphinx.ext.imgmath",
-#    'sphinxcontrib.programoutput',
     'matplotlib.sphinxext.mathmpl',
     'sphinxcontrib.nwdiag',
     'sphinxcontrib.rackdiag',
