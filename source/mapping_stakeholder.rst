@@ -90,14 +90,10 @@ Part 3: Stakeholder Register (15 minutes)
 
 **Instructions:** Select your top 3 most critical stakeholders and complete the register below.
 
++------------------+-------------------+----------------------+---------------------+---------------------------+-------------------+   
 | Stakeholder Name | Role/Organization | Influence Level (1-5) | Interest Level (1-5) | Key Concerns/Expectations | Engagement Strategy |
 |------------------|-------------------|----------------------|---------------------|---------------------------|-------------------|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+
 
 Part 4: Engagement Planning (10 minutes)
 ==========================================
