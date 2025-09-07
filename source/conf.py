@@ -7,14 +7,24 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Project Management'
-copyright = '2025, Alexandre B.'
-author = 'Alexandre B.'
-release = 'Fall 2025'
+copyright = 'Alexandre Bobkov 2025'
+author = 'Alexandre Bobkov'
+release = 'Fall 2025 (v25.09.05)'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    "sphinx.ext.autodoc",
+    "sphinx.ext.mathjax",
+    "sphinx.ext.imgmath",
+    'sphinxcontrib.programoutput',
+    'matplotlib.sphinxext.mathmpl',
+    'sphinxcontrib.nwdiag',
+    'sphinxcontrib.rackdiag',
+    'sphinxcontrib.packetdiag',
+    'sphinxcontrib.nwdiag',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
