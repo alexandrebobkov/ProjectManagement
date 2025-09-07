@@ -10,6 +10,8 @@ Welcome to Project Management's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   mapping_stakeholder
+
 
 
 Indices and tables
