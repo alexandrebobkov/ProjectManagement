@@ -20,7 +20,8 @@ Your team has been assigned to manage a comprehensive sustainability project for
 **Timeline:** 24 months
 **Expected Impact:** 5,000+ students, 800+ staff and faculty
 
-## Part 1: Stakeholder Identification (15 minutes)
+Part 1: Stakeholder Identification (15 minutes)
+===================================================
 
 **Instructions:** Brainstorm and list ALL potential stakeholders who might be affected by or have influence over this project. Think broadly - consider internal and external parties.
 
