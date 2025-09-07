@@ -1,4 +1,6 @@
-# Project Stakeholder Mapping Exercise
+=====================================
+Project Stakeholder Mapping Exercise
+=====================================
 
 ## Learning Objectives
 By the end of this activity, you will be able to:
