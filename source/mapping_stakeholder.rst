@@ -124,7 +124,8 @@ Part 4: Engagement Planning (10 minutes)
 - Review frequency: ______________________
 - Monitoring method: ____________________
 
-## Reflection Questions (5 minutes)
+Reflection Questions (5 minutes)
+===================================
 
 1. Which stakeholders were you initially likely to overlook? Why?
 
