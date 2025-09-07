@@ -329,8 +329,8 @@ INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
 INPUT ./projectmanagement.toc
 INPUT ./projectmanagement.toc
 INPUT projectmanagement.toc
-INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qtmb.tfm
 OUTPUT projectmanagement.toc
+INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qtmb.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qtmri.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
