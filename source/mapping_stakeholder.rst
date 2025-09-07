@@ -85,7 +85,8 @@ HIGH INTEREST
 - **Keep Satisfied:** Low influence, high interest - show consideration for their concerns
 - **Monitor:** Low influence, low interest - minimal effort, monitor for changes
 
-## Part 3: Stakeholder Register (15 minutes)
+Part 3: Stakeholder Register (15 minutes)
+==========================================
 
 **Instructions:** Select your top 3 most critical stakeholders and complete the register below.
 
@@ -98,7 +99,8 @@ HIGH INTEREST
 | | | | | | |
 | | | | | | |
 
-## Part 4: Engagement Planning (10 minutes)
+Part 4: Engagement Planning (10 minutes)
+==========================================
 
 **Instructions:** For each quadrant, develop specific engagement strategies:
 
