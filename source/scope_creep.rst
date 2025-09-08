@@ -233,24 +233,31 @@ Decision Matrix - Round 3
 Impact Analysis
 ---------------------------------
 
-### Budget Impact
+Budget Impact
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **Original Budget:** $25,000
 **Final Budget:** $_______
 **Variance:** _______ (____% over/under)
 
-### Schedule Impact
+Schedule Impact
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **Original Timeline:** 16 weeks
 **Final Timeline:** _______ weeks
 **Variance:** _______ weeks (____% over/under)
 
-### Scope Impact
+Scope Impact
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **Original Features:** 5 core features
 **Final Features:** _______ features
 **Added:** _________________________________________________
 **Removed:** ______________________________________________
 **Deferred:** _____________________________________________
 
-## Reflection Questions
+Reflection Questions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. **Decision Patterns:** Looking back at your decisions, what criteria did you consistently use to approve/deny changes?
 
@@ -280,7 +287,8 @@ Lessons Learned
 2. _________________________________________________
 3. _________________________________________________
 
-## Team Discussion Points
+Team Discussion Points
+---------------------------------
 
 Prepare to discuss:
 - Your team's final project outcome (budget, timeline, features)
@@ -288,10 +296,9 @@ Prepare to discuss:
 - How you would communicate project changes to stakeholders
 - Strategies for better scope management in future projects
 
----
-
 **Debrief Questions for Class:**
-- Which teams stayed closest to original constraints?
-- What patterns do you see in approved vs. denied requests?
-- How did different teams handle the same change requests?
-- What real-world parallels can you draw from this simulation?
+
+  - Which teams stayed closest to original constraints?
+  - What patterns do you see in approved vs. denied requests?
+  - How did different teams handle the same change requests?
+  - What real-world parallels can you draw from this simulation?
