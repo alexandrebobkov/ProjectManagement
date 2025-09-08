@@ -67,7 +67,9 @@ Round 1: Week 2 Change Requests
 
 **Instructions:** Your team has just completed the requirements gathering phase. Review each change request below and make decisions using the Decision Matrix.
 
-### Change Request #1
+Change Request #1
+~~~~~~~~~~~~~~~~~~~
+
 **From:** Student Government President
 **Request:** Add push notifications for campus emergency alerts
 **Justification:** "This is critical for student safety and would significantly increase app usage."
