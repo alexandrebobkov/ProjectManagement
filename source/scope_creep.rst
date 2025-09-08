@@ -44,11 +44,12 @@ Project: Student Mobile App Development
 Your team has been contracted to develop a mobile app for your university's student services.
 
 **Original Scope:**
-- Class schedule viewer
-- Grade checker
-- Campus map with building locations
-- Dining hall hours and menus
-- Basic user authentication
+
+  - Class schedule viewer
+  - Grade checker
+  - Campus map with building locations
+  - Dining hall hours and menus
+  - Basic user authentication
 
 **Approved Budget:** $25,000
 **Timeline:** 4 months (16 weeks)
@@ -57,10 +58,11 @@ Your team has been contracted to develop a mobile app for your university's stud
 **Target Users:** 8,000 students
 
 **Success Criteria:**
-- App launches successfully in App Store
-- 70% of students download within first month
-- User satisfaction rating of 4.0+ stars
-- Zero critical security vulnerabilities
+
+  - App launches successfully in App Store
+  - 70% of students download within first month
+  - User satisfaction rating of 4.0+ stars
+  - Zero critical security vulnerabilities
 
 Round 1: Week 2 Change Requests
 --------------------------------
