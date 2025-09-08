@@ -15,10 +15,7 @@ release = 'Fall 2025 (v25.09.05)'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    "sphinx.ext.autodoc",
-    "sphinx.ext.mathjax",
-    "sphinx.ext.imgmath",
-    'matplotlib.sphinxext.mathmpl',
+    "sphinx_simplepdf",
 ]
 
 templates_path = ['_templates']
@@ -44,7 +41,7 @@ version = 'Fall 2025'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'classic'
+html_theme = 'alabaster'
 html_static_path = ['_static']
 
 # SimplePDF Customization
