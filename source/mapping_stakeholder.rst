@@ -44,11 +44,11 @@ Part 1: Stakeholder Identification (15 minutes)
 
 **Your Stakeholder List:**
 
-  1. _
-  2. _
-  3. _
-  4. _
-  5. _
+  #. _
+  #. _
+  #. _
+  #. _
+  #. _
 
 *You may continue the list if needed.*
 
