@@ -140,14 +140,13 @@ Reflection Questions (5 minutes)
 
 4. How would poor stakeholder management impact this project's success?
 
-## Team Presentation Preparation
+Team Presentation Preparation
+================================
 
 **Prepare a set of PowerPoint slides for 3-minute presentation covering:**
-- Your stakeholder mapping matrix (visual)
-- Top 3 most critical stakeholders and why
-- Biggest stakeholder management challenge anticipated
-- One creative engagement strategy you developed
-
----
+  - Your stakeholder mapping matrix (visual)
+  - Top 3 most critical stakeholders and why
+  - Biggest stakeholder management challenge anticipated
+  - One creative engagement strategy you developed
 
 **Submission:** Submit your completed handout with PowerPoint slides and be prepared to go over your findings.
