@@ -228,3 +228,70 @@ Decision Matrix - Round 3
   - Timeline: _______ weeks (original: 16 weeks)
   - Launch Date: _________________
   - Final Feature Set: ___________________________________________
+
+
+Impact Analysis
+---------------------------------
+
+### Budget Impact
+**Original Budget:** $25,000
+**Final Budget:** $_______
+**Variance:** _______ (____% over/under)
+
+### Schedule Impact
+**Original Timeline:** 16 weeks
+**Final Timeline:** _______ weeks
+**Variance:** _______ weeks (____% over/under)
+
+### Scope Impact
+**Original Features:** 5 core features
+**Final Features:** _______ features
+**Added:** _________________________________________________
+**Removed:** ______________________________________________
+**Deferred:** _____________________________________________
+
+## Reflection Questions
+
+1. **Decision Patterns:** Looking back at your decisions, what criteria did you consistently use to approve/deny changes?
+
+2. **Constraint Trade-offs:** Which project constraint (budget, time, scope, quality) did you prioritize most? Why?
+
+3. **Stakeholder Management:** How did the source of the request influence your decisions? Should it have?
+
+4. **Change Timing:** How did the timing of requests (early vs. late in project) affect your decision-making?
+
+5. **Success Criteria:** Based on your final project scope, do you think you'll still meet the original success criteria? Why or why not?
+
+Lessons Learned
+---------------------------------
+
+**What strategies could prevent scope creep?**
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+
+**How should change requests be properly managed?**
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+
+**What would you do differently if starting this project over?**
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+
+## Team Discussion Points
+
+Prepare to discuss:
+- Your team's final project outcome (budget, timeline, features)
+- The most difficult change request decision and why
+- How you would communicate project changes to stakeholders
+- Strategies for better scope management in future projects
+
+---
+
+**Debrief Questions for Class:**
+- Which teams stayed closest to original constraints?
+- What patterns do you see in approved vs. denied requests?
+- How did different teams handle the same change requests?
+- What real-world parallels can you draw from this simulation?
