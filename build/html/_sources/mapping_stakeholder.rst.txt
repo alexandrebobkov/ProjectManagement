@@ -43,6 +43,7 @@ Part 1: Stakeholder Identification (15 minutes)
   - Regulatory bodies
 
 **Your Stakeholder List:**
+
   1. ________________________________
   2. ________________________________
   3. ________________________________
