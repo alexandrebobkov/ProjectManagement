@@ -109,29 +109,39 @@ Decision Matrix - Round 1
   - Timeline: _______ weeks remaining
   - New Success Criteria (if any): _________________________________
 
-## Round 2: Week 6 Change Requests
+
+
+Round 2: Week 6 Change Requests
+--------------------------------
 
 **Current Status:** You're 25% through development when new requests arrive.
 
-### Change Request #3
+Change Request #3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **From:** IT Security Department
 **Request:** Add two-factor authentication and biometric login
 **Justification:** "New security policy requires enhanced authentication for all student data access."
 **Impact:** +3 weeks development time, +$5,000 cost, may delay launch
 
-### Change Request #4
+Change Request #4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **From:** University President's Office
 **Request:** Add Android version simultaneously
 **Justification:** "60% of our students use Android phones. We need to serve all students equally."
 **Impact:** +6 weeks development time, +$15,000 cost, requires additional team members
 
-### Change Request #5
+Change Request #5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **From:** Academic Affairs
 **Request:** Add study room booking system
 **Justification:** "Library study rooms are always full. This would solve a major student complaint."
 **Impact:** +2 weeks development time, +$3,000 cost, requires library system integration
 
-### Decision Matrix - Round 2
+Decision Matrix - Round 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Change Request | Approve | Deny | Defer | Justification |
 |---------------|---------|------|-------|---------------|
@@ -140,6 +150,7 @@ Decision Matrix - Round 1
 | #5: Study Room Booking | ☐ | ☐ | ☐ | |
 
 **Updated Project Status After Round 2:**
-- Budget Used: $_______ / $25,000
-- Timeline: _______ weeks remaining
-- New Success Criteria (if any): _________________________________
+
+  - Budget Used: $_______ / $25,000
+  - Timeline: _______ weeks remaining
+  - New Success Criteria (if any): _________________________________
