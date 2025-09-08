@@ -169,38 +169,53 @@ Decision Matrix - Round 2
   - Timeline: _______ weeks remaining
   - New Success Criteria (if any): _________________________________
 
-## Round 3: Week 12 Change Requests
+
+
+Round 3: Week 12 Change Requests
+---------------------------------
 
 **Current Status:** You're 75% through development with 4 weeks remaining.
 
-### Change Request #6
+Change Request #6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **From:** Student Life Office
 **Request:** Remove dining hall menus, add campus event calendar instead
 **Justification:** "Students say they don't use the menu feature, but constantly ask about events."
 **Impact:** +1 week development time, -$500 cost (net savings from removal)
 
-### Change Request #7
+Change Request #7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **From:** Financial Aid Office
 **Request:** Add financial aid status checker
 **Justification:** "This was supposed to be included originally - there must have been a miscommunication."
 **Impact:** +3 weeks development time, +$6,000 cost
 
-### Change Request #8
+Change Request #8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **From:** Facilities Management
 **Request:** Add real-time campus parking availability
 **Justification:** "Parking is the #1 student complaint. This feature could generate revenue through premium parking alerts."
 **Impact:** +4 weeks development time, +$8,000 cost, requires hardware integration
 
-### Decision Matrix - Round 3
+Decision Matrix - Round 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| Change Request | Approve | Deny | Defer | Justification |
-|---------------|---------|------|-------|---------------|
-| #6: Event Calendar Swap | ☐ | ☐ | ☐ | |
-| #7: Financial Aid Status | ☐ | ☐ | ☐ | |
-| #8: Parking Availability | ☐ | ☐ | ☐ | |
++--------------------------+---------+------+-------+---------------+
+| Change Request           | Approve | Deny | Defer | Justification |
++==========================+=========+======+=======+===============+
+| #6: Event Calendar Swap  | y/n     | y/n  | y/n   |               |
++--------------------------+---------+------+-------+---------------+
+| #7: Financial Aid Status | y/n     | y/n  | y/n   |               |
++--------------------------+---------+------+-------+---------------+
+| #8: Parking Availability | y/n     | y/n  | y/n   |               |
++--------------------------+---------+------+-------+---------------+
+
 
 **Final Project Status:**
-- Budget Used: $_______ / $25,000
-- Timeline: _______ weeks (original: 16 weeks)
-- Launch Date: _________________
-- Final Feature Set: ___________________________________________
+  - Budget Used: $_______ / $25,000
+  - Timeline: _______ weeks (original: 16 weeks)
+  - Launch Date: _________________
+  - Final Feature Set: ___________________________________________
