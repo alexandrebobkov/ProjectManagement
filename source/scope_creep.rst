@@ -3,6 +3,7 @@ Scope Creep
 =====================================
 
 Key Features:
+^^^^^^^^^^^^^^
 
 A realistic mobile app development project that students can relate to
 Three progressive rounds of change requests that increase in complexity and timing challenges
