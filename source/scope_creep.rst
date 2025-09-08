@@ -282,21 +282,21 @@ Lessons Learned
 
 What strategies could prevent scope creep?
 
-  1. __________
-  2. __________
-  3. __________
+  #. _
+  #. _
+  #. _
 
 How should change requests be properly managed?
 
-  1. __________
-  2. __________
-  3. __________
+  #. _
+  #. _
+  #. _
 
 What would you do differently if starting this project over?
 
-  1. __________
-  2. __________
-  3. __________
+  #. _
+  #. _
+  #. _
 
 Team Discussion Points
 ---------------------------------
