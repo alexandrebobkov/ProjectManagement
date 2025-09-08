@@ -180,24 +180,33 @@ Change Request #6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **From:** Student Life Office
+
 **Request:** Remove dining hall menus, add campus event calendar instead
+
 **Justification:** "Students say they don't use the menu feature, but constantly ask about events."
+
 **Impact:** +1 week development time, -$500 cost (net savings from removal)
 
 Change Request #7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **From:** Financial Aid Office
+
 **Request:** Add financial aid status checker
+
 **Justification:** "This was supposed to be included originally - there must have been a miscommunication."
+
 **Impact:** +3 weeks development time, +$6,000 cost
 
 Change Request #8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **From:** Facilities Management
+
 **Request:** Add real-time campus parking availability
+
 **Justification:** "Parking is the #1 student complaint. This feature could generate revenue through premium parking alerts."
+
 **Impact:** +4 weeks development time, +$8,000 cost, requires hardware integration
 
 Decision Matrix - Round 3
