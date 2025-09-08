@@ -237,23 +237,31 @@ Budget Impact
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Original Budget:** $25,000
+
 **Final Budget:** $_______
+
 **Variance:** _______ (____% over/under)
 
 Schedule Impact
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Original Timeline:** 16 weeks
+
 **Final Timeline:** _______ weeks
+
 **Variance:** _______ weeks (____% over/under)
 
 Scope Impact
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Original Features:** 5 core features
+
 **Final Features:** _______ features
+
 **Added:** _________________________________________________
+
 **Removed:** ______________________________________________
+
 **Deferred:** _____________________________________________
 
 Reflection Questions
