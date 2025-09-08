@@ -52,9 +52,13 @@ Your team has been contracted to develop a mobile app for your university's stud
   - Basic user authentication
 
 **Approved Budget:** $25,000
+
 **Timeline:** 4 months (16 weeks)
+
 **Team Size:** 4 developers
+
 **Platform:** iOS only
+
 **Target Users:** 8,000 students
 
 **Success Criteria:**
@@ -73,16 +77,22 @@ Change Request #1
 ~~~~~~~~~~~~~~~~~~~
 
 **From:** Student Government President
+
 **Request:** Add push notifications for campus emergency alerts
+
 **Justification:** "This is critical for student safety and would significantly increase app usage."
+
 **Impact:** +1 week development time, +$2,000 cost
 
 Change Request #2
 ~~~~~~~~~~~~~~~~~~
 
 **From:** Athletic Department
+
 **Request:** Include sports schedules and ticket purchasing
+
 **Justification:** "We have 15,000 season ticket holders who would love this feature."
+
 **Impact:** +2 weeks development time, +$4,500 cost, requires integration with ticketing system
 
 Decision Matrix - Round 1
