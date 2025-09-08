@@ -1,5 +1,5 @@
 =====================================
-Project Stakeholder Mapping Exercise
+Project Stakeholder Mapping
 =====================================
 
 Learning Objectives
