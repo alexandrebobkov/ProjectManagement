@@ -11,11 +11,11 @@ real-world project management principles.
 
 **Educational Design Elements:**
 
-Change requests come from different stakeholders with varying levels of authority.
-Requests range from reasonable safety features to nice-to-have additions.
-Timing creates realistic pressure (early changes vs. late-stage requests).
-Some requests appear mandatory while others are clearly optional.
-Budget and time constraints force difficult trade-off decisions.
+  - Change requests come from different stakeholders with varying levels of authority.
+  - Requests range from reasonable safety features to nice-to-have additions.
+  - Timing creates realistic pressure (early changes vs. late-stage requests).
+  - Some requests appear mandatory while others are clearly optional.
+  - Budget and time constraints force difficult trade-off decisions.
 
 **Learning Outcomes:**
 
