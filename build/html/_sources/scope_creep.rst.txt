@@ -280,23 +280,23 @@ Reflection Questions
 Lessons Learned
 ---------------------------------
 
-**What strategies could prevent scope creep?**
+What strategies could prevent scope creep?
 
-  1. _________________________________________________
-  2. _________________________________________________
-  3. _________________________________________________
+  1. __________
+  2. __________
+  3. __________
 
-**How should change requests be properly managed?**
+How should change requests be properly managed?
 
-  1. _________________________________________________
-  2. _________________________________________________
-  3. _________________________________________________
+  1. __________
+  2. __________
+  3. __________
 
-**What would you do differently if starting this project over?**
+What would you do differently if starting this project over?
 
-  1. _________________________________________________
-  2. _________________________________________________
-  3. _________________________________________________
+  1. __________
+  2. __________
+  3. __________
 
 Team Discussion Points
 ---------------------------------
