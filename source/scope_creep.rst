@@ -84,14 +84,18 @@ Change Request #2
 **Impact:** +2 weeks development time, +$4,500 cost, requires integration with ticketing system
 
 Decision Matrix - Round 1
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| Change Request | Approve | Deny | Defer | Justification |
-|---------------|---------|------|-------|---------------|
-| #1: Emergency Alerts | ☐ | ☐ | ☐ | |
-| #2: Sports Integration | ☐ | ☐ | ☐ | |
++------------------------+---------+------+-------+---------------+
+| Change Request         | Approve | Deny | Defer | Justification |
++========================+=========+======+=======+===============+
+| #1: Emergency Alerts   | ☐      | ☐    | ☐    |               |
++------------------------+---------+------+-------+---------------+
+| #2: Sports Integration | ☐      | ☐    | ☐    |               |
++------------------------+---------+------+-------+---------------+
 
 **Updated Project Status After Round 1:**
-- Budget Used: $_______ / $25,000
-- Timeline: _______ weeks remaining
-- New Success Criteria (if any): _________________________________
+
+  - Budget Used: $_______ / $25,000
+  - Timeline: _______ weeks remaining
+  - New Success Criteria (if any): _________________________________
