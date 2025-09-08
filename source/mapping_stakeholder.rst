@@ -2,6 +2,19 @@
 Project Stakeholder Mapping
 =====================================
 
+The handout includes:
+
+  - Clear learning objectives tied to project definition skills
+  - A realistic campus sustainability project scenario that students can relate to
+  - Step-by-step activities progressing from identification to analysis to planning
+  - Visual tools like the influence/interest matrix
+  - Structured templates for documentation
+  - Reflection questions to deepen learning
+  - A presentation component for peer sharing
+
+The exercise is designed to take about 50-60 minutes total, making it suitable for a standard class period. The scenario is complex enough to generate meaningful discussion while being accessible to students without extensive project management experience.
+You can modify the scenario or adjust the time allocations based on your specific class needs.
+
 Learning Objectives
 -------------------------------------------------
 
