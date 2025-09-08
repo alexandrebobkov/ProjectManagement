@@ -50,6 +50,8 @@ Part 1: Stakeholder Identification (15 minutes)
   4. _
   5. _
 
+*You may continue the list if needed.*
+
 Part 2: Stakeholder Analysis Matrix (20 minutes)
 ================================================
 
