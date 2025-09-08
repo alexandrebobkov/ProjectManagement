@@ -2,8 +2,9 @@
 Project Stakeholder Mapping Exercise
 #####################################
 
+***************************************************
 Learning Objectives
-========================
+***************************************************
 
 By the end of this activity, you will be able to:
 
@@ -27,9 +28,8 @@ Your team has been assigned to manage a comprehensive sustainability project for
 
 **Expected Impact:** 5,000+ students, 800+ staff and faculty
 
-***************************************************
 Part 1: Stakeholder Identification (15 minutes)
-***************************************************
+=================================================
 
 **Instructions:** Brainstorm and list ALL potential stakeholders who might be affected by or have influence over this project. Think broadly - consider internal and external parties.
 
@@ -55,9 +55,8 @@ Part 1: Stakeholder Identification (15 minutes)
   
 *You may continue the list if needed.*
 
-***************************************************
 Part 2: Stakeholder Analysis Matrix (20 minutes)
-***************************************************
+=================================================
 
 **Instructions:** Plot each stakeholder on the matrix below based on their level of influence (ability to impact project success with performance) and interest (how much the project affects them).
 
@@ -82,7 +81,7 @@ Influence/Interest Matrix
   - **Monitor:** Low influence, low interest - minimal effort, monitor for changes
 
 Part 3: Stakeholder Register (15 minutes)
-==========================================
+=================================================
 
 **Instructions:** Select your top 3 most critical stakeholders and complete the register below.
 
