@@ -302,10 +302,11 @@ Team Discussion Points
 ---------------------------------
 
 Prepare to discuss:
-- Your team's final project outcome (budget, timeline, features)
-- The most difficult change request decision and why
-- How you would communicate project changes to stakeholders
-- Strategies for better scope management in future projects
+
+  - Your team's final project outcome (budget, timeline, features)
+  - The most difficult change request decision and why
+  - How you would communicate project changes to stakeholders
+  - Strategies for better scope management in future projects
 
 **Debrief Questions for Class:**
 
