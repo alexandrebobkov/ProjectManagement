@@ -5,6 +5,5 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    mapping_stakeholder
