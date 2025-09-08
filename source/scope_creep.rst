@@ -75,13 +75,16 @@ Change Request #1
 **Justification:** "This is critical for student safety and would significantly increase app usage."
 **Impact:** +1 week development time, +$2,000 cost
 
-### Change Request #2
+Change Request #2
+~~~~~~~~~~~~~~~~~~
+
 **From:** Athletic Department
 **Request:** Include sports schedules and ticket purchasing
 **Justification:** "We have 15,000 season ticket holders who would love this feature."
 **Impact:** +2 weeks development time, +$4,500 cost, requires integration with ticketing system
 
-### Decision Matrix - Round 1
+Decision Matrix - Round 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Change Request | Approve | Deny | Defer | Justification |
 |---------------|---------|------|-------|---------------|
