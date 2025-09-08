@@ -301,7 +301,7 @@ What would you do differently if starting this project over?
 Team Discussion Points
 ---------------------------------
 
-Prepare to discuss:
+**Prepare to discuss:**
 
   - Your team's final project outcome (budget, timeline, features)
   - The most difficult change request decision and why
