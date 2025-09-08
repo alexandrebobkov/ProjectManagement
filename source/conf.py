@@ -6,6 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import os
+import sphynx
+import datetime
+
 project = 'Project Management'
 copyright = 'Alexandre Bobkov 2025'
 author = 'Alexandre Bobkov'
