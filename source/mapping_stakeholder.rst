@@ -110,24 +110,24 @@ Part 4: Engagement Planning (10 minutes)
 **Instructions:** For each quadrant, develop specific engagement strategies:
 
 **Manage Closely Stakeholders:**
-- Communication frequency: ________________
-- Communication methods: ________________
-- Key messages: __________________________
-- Success metrics: _______________________
+  - Communication frequency: ________________
+  - Communication methods: ________________
+  - Key messages: __________________________
+  - Success metrics: _______________________
 
 **Keep Informed Stakeholders:**
-- Communication frequency: ________________
-- Communication methods: ________________
-- Key messages: __________________________
+  - Communication frequency: ________________
+  - Communication methods: ________________
+  - Key messages: __________________________
 
 **Keep Satisfied Stakeholders:**
-- Communication frequency: ________________
-- Communication methods: ________________
-- Key messages: __________________________
+  - Communication frequency: ________________
+  - Communication methods: ________________
+  - Key messages: __________________________
 
 **Monitor Stakeholders:**
-- Review frequency: ______________________
-- Monitoring method: ____________________
+  - Review frequency: ______________________
+  - Monitoring method: ____________________
 
 Reflection Questions (5 minutes)
 ===================================
