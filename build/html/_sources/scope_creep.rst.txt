@@ -89,9 +89,9 @@ Decision Matrix - Round 1
 +------------------------+---------+------+-------+---------------+
 | Change Request         | Approve | Deny | Defer | Justification |
 +========================+=========+======+=======+===============+
-| #1: Emergency Alerts   | ☐      | ☐    | ☐    |               |
+| #1: Emergency Alerts   | y/n     | y/n  | y/n   | ...           |
 +------------------------+---------+------+-------+---------------+
-| #2: Sports Integration | ☐      | ☐    | ☐    |               |
+| #2: Sports Integration | y/n     | y/n  | y/n   | ...           |
 +------------------------+---------+------+-------+---------------+
 
 **Updated Project Status After Round 1:**
